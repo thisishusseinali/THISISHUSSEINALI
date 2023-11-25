@@ -19,6 +19,9 @@
   <a href="https://www.instagram.com/thisishusseinali">
     <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="Instagram">
   </a>
+    <a href="https://github.com/thisishusseinali">
+    <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" alt="GitHub">
+  </a>
 </div>
 
 ```json
