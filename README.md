@@ -1,6 +1,13 @@
+```json
+{
+  "Name"     : "Hussein Ali",
+  "Degree"   : "BSc of CS and AI",
+  "Location" : "Egypt",
+  "Qoute"    : "Life is really simple, but we insist on making it complicated."
+}
+```
+
 <div align="center">
-  <img src='./asset/matrix.svg'>
-  <br>
   <a href="https://www.linkedin.com/in/thisishusseinali/">
     <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn">
   </a>
@@ -23,12 +30,3 @@
     <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" alt="GitHub">
   </a>
 </div>
-
-```json
-{
-  "Name"     : "Hussein Ali",
-  "Degree"   : "BSc of CS and AI",
-  "Location" : "Egypt",
-  "Qoute"    : "Life is really simple, but we insist on making it complicated.📚"
-}
-```
