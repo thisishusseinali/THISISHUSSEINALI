@@ -7,9 +7,6 @@
 }
 ```
 <div align="center">
-  <a href="https://www.linkedin.com/in/thisishusseinali/">
-    <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn">
-  </a>
   <a href="https://www.kaggle.com/thisishusseinali">
     <img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" alt="Kaggle">
   </a>
